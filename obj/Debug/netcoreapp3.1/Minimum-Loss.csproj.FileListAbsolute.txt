@@ -1,0 +1,12 @@
+/Users/hgoel/My_Git_Hub/Minimum-Loss/Minimum-Loss/bin/Debug/netcoreapp3.1/Minimum-Loss.deps.json
+/Users/hgoel/My_Git_Hub/Minimum-Loss/Minimum-Loss/bin/Debug/netcoreapp3.1/Minimum-Loss.runtimeconfig.json
+/Users/hgoel/My_Git_Hub/Minimum-Loss/Minimum-Loss/bin/Debug/netcoreapp3.1/Minimum-Loss.runtimeconfig.dev.json
+/Users/hgoel/My_Git_Hub/Minimum-Loss/Minimum-Loss/bin/Debug/netcoreapp3.1/Minimum-Loss.dll
+/Users/hgoel/My_Git_Hub/Minimum-Loss/Minimum-Loss/bin/Debug/netcoreapp3.1/Minimum-Loss.pdb
+/Users/hgoel/My_Git_Hub/Minimum-Loss/Minimum-Loss/obj/Debug/netcoreapp3.1/Minimum-Loss.csprojAssemblyReference.cache
+/Users/hgoel/My_Git_Hub/Minimum-Loss/Minimum-Loss/obj/Debug/netcoreapp3.1/Minimum-Loss.AssemblyInfoInputs.cache
+/Users/hgoel/My_Git_Hub/Minimum-Loss/Minimum-Loss/obj/Debug/netcoreapp3.1/Minimum-Loss.AssemblyInfo.cs
+/Users/hgoel/My_Git_Hub/Minimum-Loss/Minimum-Loss/obj/Debug/netcoreapp3.1/Minimum-Loss.csproj.CoreCompileInputs.cache
+/Users/hgoel/My_Git_Hub/Minimum-Loss/Minimum-Loss/obj/Debug/netcoreapp3.1/Minimum-Loss.dll
+/Users/hgoel/My_Git_Hub/Minimum-Loss/Minimum-Loss/obj/Debug/netcoreapp3.1/Minimum-Loss.pdb
+/Users/hgoel/My_Git_Hub/Minimum-Loss/Minimum-Loss/obj/Debug/netcoreapp3.1/Minimum-Loss.genruntimeconfig.cache
